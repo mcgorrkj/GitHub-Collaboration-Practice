@@ -9,4 +9,8 @@ namespace GitHub_Collaboration_Practice
     internal class Student019
     {
     }
+    public void SayHelloWorld()
+    {
+        Console.WriteLine("Hello, World!");
+    }
 }
